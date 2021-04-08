@@ -1,5 +1,5 @@
 {
-  "name": "utility-belt",
+  "name": "@dyonehara/utility-belt",
   "version": "0.1.0",
   "description": "utility functions",
   "main": "index.js",
