@@ -1,0 +1,19 @@
+{
+  "name": "utility-belt",
+  "version": "0.1.0",
+  "description": "utility functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyonehara/utility-belt.git"
+  },
+  "author": "David Yonehara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyonehara/utility-belt/issues"
+  },
+  "homepage": "https://github.com/dyonehara/utility-belt#readme"
+}
